@@ -153,6 +153,10 @@
       "enabled": true
     },
     {
+      "name": "factorio-reach",
+      "enabled": true
+    },
+    {
       "name": "Factorissimo2",
       "enabled": true
     },
@@ -185,11 +189,11 @@
       "enabled": true
     },
     {
-      "name": "long-reach",
+      "name": "rededog-stack-size",
       "enabled": true
     },
     {
-      "name": "rededog-stack-size",
+      "name": "rso-mod",
       "enabled": true
     },
     {
